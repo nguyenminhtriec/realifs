@@ -2,5 +2,6 @@
 *.db
 *.py[cod]
 .web
+.venv # NMT: Ignore virtual environment folder
 __pycache__/
 assets/external/
